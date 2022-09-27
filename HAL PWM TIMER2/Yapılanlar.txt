@@ -1,0 +1,1 @@
+Bu projede 3 adet timer aynı anda kullanıldı. Bu sayede cıkısı olan 3 fazındaaralarında fark olusturabıldık.
